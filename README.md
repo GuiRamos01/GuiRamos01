@@ -1,6 +1,6 @@
 ## Olá, me chamo Guilherme!
 
-# 👨‍💻 Full Stack Developer | React & Node.js Specialist
+## 👨‍💻 Full Stack Developer | React & Node.js Specialist
 
 Desenvolvedor apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência sólida no ecossistema JavaScript, utilizando **React** no front-end e **Node.js** com **MongoDB** no back-end.
 
