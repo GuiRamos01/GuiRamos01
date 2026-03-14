@@ -28,4 +28,4 @@ Meus projetos recentes incluem sistemas de gestão operacional, com foco em segu
 * **Relatórios:** Geração dinâmica de documentos em PDF (jsPDF) e planilhas (XLSX).
 
 ---
-📫 **Como me encontrar:** <a href="https://github.com/GuiRamos01">Meu site pessoal (Linkedin e Behance)</a>
+📫 **Como me encontrar:** <a href="https://guiramos01.github.io">Meu site pessoal (Linkedin e Behance)</a>
