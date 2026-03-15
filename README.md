@@ -9,23 +9,23 @@ Meus projetos recentes incluem sistemas de gestão operacional, com foco em segu
 ### 🛠️ Tech Stack
 
 #### **Front-end**
-* **Framework:** React com Vite.
+* **Framework:** React (Vite).
 * **Estado & Cache:** Redux e React Query.
-* **Estilização:** Tailwind CSS 4, Sass e Lucide React para ícones.
+* **Estilização:** Tailwind CSS, Sass e Lucide React para ícones.
 * **Componentes:** Radix UI e Shadcn/UI para interfaces.
 
 #### **Back-end & Infra**
-* **Runtime:** Node.js com Express.
-* **Banco de Dados:** MongoDB com integração Mongoose.
+* **Runtime:** Node.js, Express.
+* **Banco de Dados:** MongoDB, Mongoose.
 * **Segurança:** APIs RESTful com sanitização de dados, autenticação JWT e controle de permissões (RBAC).
 * **DevOps:** Arquitetura de microserviços e containerização com Docker & Docker Compose.
 
 ---
 
 ### 📈 Destaques de Desenvolvimento
-* **Gestão de Dados:** Experiência na criação de dashboards administrativos.
+* **Gestão de Dados:** Experiência na criação de paineis/dashboards administrativos.
 * **Segurança Avançada:** Implementação de validação por Token de Dispositivo e auditoria através de logs de atividade.
-* **Relatórios:** Geração dinâmica de documentos em PDF (jsPDF) e planilhas (XLSX).
+* **Relatórios:** Geração dinâmica de documentos em PDF e planilhas (.XLS/Excel).
 
 ---
 📫 **Como me encontrar:** <a href="https://guiramos01.github.io">Meu site pessoal (Linkedin e Behance)</a>
