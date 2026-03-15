@@ -10,7 +10,7 @@ Meus projetos recentes incluem sistemas de gestão operacional, com foco em segu
 
 #### **Front-end**
 * **Framework:** React com Vite.
-* **Estado & Cache:** Redux Toolkit (@reduxjs/toolkit) e React Query (@tanstack/react-query).
+* **Estado & Cache:** Redux e React Query.
 * **Estilização:** Tailwind CSS 4, Sass e Lucide React para ícones.
 * **Componentes:** Radix UI e Shadcn/UI para interfaces.
 
