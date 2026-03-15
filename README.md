@@ -24,7 +24,7 @@ Meus projetos recentes incluem portal de noticias e rede social, com foco em des
 
 ### 📈 Destaques de Desenvolvimento
 * **Gestão de Dados:** Experiência na criação de paineis/dashboards administrativos.
-* **Segurança Avançada:** Implementação de validação por Token de Dispositivo e auditoria através de logs de atividade.
+* **Segurança Avançada:** Experiência em sanitização de dados, autenticação, controle de permissões (RBAC), validação por dispositivo e auditoria através de logs de atividade.
 * **Relatórios:** Geração dinâmica de documentos em PDF e planilhas (.XLS/Excel).
 
 ---
