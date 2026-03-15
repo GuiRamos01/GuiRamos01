@@ -1,8 +1,8 @@
 ## Olá, me chamo Guilherme! Full Stack Developer
 
-Desenvolvedor apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência sólida no ecossistema JavaScript, utilizando **React** no front-end e **Node.js** com **MongoDB** no back-end.
+Desenvolvedor apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência sólida em JavaScript ES6+, utilizando **React** no front-end e **Node.js** com **MongoDB** no back-end.
 
-Meus projetos recentes incluem sistemas de gestão operacional, com foco em segurança, controle de permissões e alta performance.
+Meus projetos recentes incluem portal de noticias e rede social, com foco em design e interface moderno, e alta segurança.
 
 ---
 
@@ -14,11 +14,11 @@ Meus projetos recentes incluem sistemas de gestão operacional, com foco em segu
 * **Estilização:** Tailwind CSS, Sass e Lucide React para ícones.
 * **Componentes:** Radix UI e Shadcn/UI para interfaces.
 
-#### **Back-end & Infra**
-* **Runtime:** Node.js, Express.
-* **Banco de Dados:** MongoDB, Mongoose.
+#### **Back-end**
+* **Runtime:** Node.js com Express.
+* **Banco de Dados:** MongoDB com Mongoose.
 * **Segurança:** APIs RESTful com sanitização de dados, autenticação JWT e controle de permissões (RBAC).
-* **DevOps:** Arquitetura de microserviços e containerização com Docker & Docker Compose.
+* **Infra:** Arquitetura de microserviços e containerização com Docker & Docker Compose.
 
 ---
 
