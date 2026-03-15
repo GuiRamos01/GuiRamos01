@@ -1,6 +1,6 @@
 ## Olá, me chamo Guilherme! Full Stack Developer
 
-Desenvolvedor apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência sólida em JavaScript ES6+, utilizando **React** no front-end e **Node.js** com **MongoDB** no back-end.
+Desenvolvedor apaixonado por construir sistemas que resolvem problemas reais. Tenho experiência sólida em **JavaScript ES6+**, utilizando **React** no front-end e **Node.js** com **MongoDB** no back-end.
 
 Meus projetos recentes incluem portal de noticias e rede social, com foco em design e interface moderno, e alta segurança.
 
