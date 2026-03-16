@@ -9,7 +9,7 @@ Meus projetos recentes incluem portal de noticias e rede social, com foco em des
 ### 🛠️ Tech Stack
 
 #### **Front-end**
-* **Framework:** React (Vite).
+* **Framework:** React (Vite) e JavaScript ES6+.
 * **Estado & Cache:** Redux e React Query.
 * **Estilização:** Tailwind CSS, Sass e Lucide React para ícones.
 * **Componentes:** Radix UI e Shadcn/UI para interfaces.
@@ -24,7 +24,7 @@ Meus projetos recentes incluem portal de noticias e rede social, com foco em des
 
 ### 📈 Destaques de Desenvolvimento
 * **Gestão de Dados:** Experiência na criação de paineis/dashboards administrativos.
-* **Segurança Avançada:** Experiência em sanitização de dados, autenticação, controle de permissões (RBAC), validação por dispositivo e auditoria através de logs de atividade.
+* **Segurança Avançada:** Experiência em sanitização de dados, autenticação, controle de permissões (RBAC) e validação de dispositivo.
 * **Relatórios:** Geração dinâmica de documentos em PDF e planilhas (.XLS/Excel).
 
 ---
