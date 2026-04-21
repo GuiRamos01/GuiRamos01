@@ -29,7 +29,7 @@ Meus projetos recentes incluem portal de noticias e rede social, com foco em des
 
 ---
 
-#### **Links**
+### 🔗 **Links**
 * **Meu site pessoal (Linkedin e Behance):** <a href="https://guiramos01.github.io">https://guiramos01.github.io</a>
 
 * **Meus artigos no Medium:** <a href="https://medium.com/@guiramos01">https://medium.com/@guiramos01</a>
