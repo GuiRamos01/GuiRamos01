@@ -16,7 +16,7 @@ Meus projetos recentes incluem portal de noticias e rede social, com foco em des
 
 #### **Back-end**
 * **Runtime:** Node.js com Express.
-* **Banco de Dados:** MongoDB com Mongoose.
+* **Banco de Dados:** MongoDB, PostgreSQL
 * **Segurança:** APIs RESTful com sanitização de dados, autenticação JWT e controle de permissões (RBAC).
 * **Infra:** Arquitetura de microserviços e containerização com Docker & Docker Compose.
 
